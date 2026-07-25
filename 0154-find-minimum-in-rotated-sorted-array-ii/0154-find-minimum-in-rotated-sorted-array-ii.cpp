@@ -1,25 +1,20 @@
-#include <vector>
-
-using namespace std;
-
 class Solution {
 public:
-    int numTrees(int n) {
-        // dp[i] stores the number of unique BSTs for i nodes
-        vector<int> dp(n + 1, 0);
-        
-        // Base cases
-        dp[0] = 1;
-        dp[1] = 1;
-        
-        // Build the dp array from 2 up to n
-        for (int i = 2; i <= n; i++) {
-            // Consider each number j from 1 to i as the root
-            for (int j = 1; j <= i; j++) {
-                dp[i] += dp[j - 1] * dp[i - j];
-            }
+    int pi(vector<int>&nums){
+        int n=nums.size();
+        int s=0;int e=n-1;
+        while(s<e){
+            int mid=s+(e-s)/2;
+            if(nums[mid]>nums[mid+1])return mid;
+            else if(nums[mid]>nums[e])s=mid+1;
+            else if(nums[mid]<nums[e])e=mid;
+            else e--;
         }
-        
-        return dp[n];
+        return -1;
+    }
+    int findMin(vector<int>& nums) {
+        int idx=pi(nums);
+        if(idx==-1)return nums[0];
+        return nums[idx+1];
     }
 };
