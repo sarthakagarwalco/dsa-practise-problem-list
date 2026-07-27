@@ -10,6 +10,7 @@
 | [0037-sudoku-solver](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0051-n-queens) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0198-house-robber](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0200-number-of-islands) |
 ## Depth-First Search
 |  |
@@ -46,4 +47,8 @@
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
