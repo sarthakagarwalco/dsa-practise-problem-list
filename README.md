@@ -10,6 +10,7 @@
 | [0037-sudoku-solver](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0057-insert-interval) |
+| [0085-maximal-rectangle](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0085-maximal-rectangle) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0200-number-of-islands) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0037-sudoku-solver) |
+| [0085-maximal-rectangle](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0200-number-of-islands) |
 ## Backtracking
 |  |
@@ -51,5 +53,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0198-house-robber) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
