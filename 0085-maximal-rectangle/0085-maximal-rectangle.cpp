@@ -52,6 +52,6 @@ public:
             ans = max(ans, currArea);
         }
 
-        return ans;
+        return n;
     }
 };
