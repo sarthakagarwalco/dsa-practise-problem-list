@@ -54,6 +54,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0198-house-robber) |
 ## Stack
@@ -68,8 +69,13 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0012-integer-to-roman) |
+| [0070-climbing-stairs](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0012-integer-to-roman) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
