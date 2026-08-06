@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0037-sudoku-solver) |
 ## Two Pointers
 |  |
@@ -63,4 +64,12 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0085-maximal-rectangle) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
