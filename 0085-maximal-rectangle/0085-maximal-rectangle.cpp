@@ -10,6 +10,7 @@ public:
                 s.push({i, i});
             }
             else{
+                
                 if(heights[s.top().second]<=heights[i]){
                     s.push({i, i});
                 }
@@ -23,9 +24,8 @@ public:
                 s.push({stIdx, i});
             }
         }
-
-        while(!s.empty()){
-            int area = heights[s.top().second]*(n-s.top().first);
+while(!s.empty()){
+    int area = heights[s.top().second]*(n-s.top().first);
             ans = max(ans, area);
             s.pop();
         }
@@ -39,7 +39,7 @@ public:
         vector<int> arr(m, 0);
         int ans = -1e9;
 
-        for(int i=0; i<n; i++){
+        for(int i=0; i<n; i++){   
             for(int j=0; j<m; j++){
                 if(matrix[i][j]=='0'){
                     arr[j] = 0;
@@ -48,6 +48,7 @@ public:
                     arr[j] += 1;
                 }
             }
+            
             int currArea = largestRectangleArea(arr);
             ans = max(ans, currArea);
         }
