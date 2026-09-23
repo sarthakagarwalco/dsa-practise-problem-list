@@ -54,6 +54,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0198-house-robber) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0012-integer-to-roman) |
+| [0062-unique-paths](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0070-climbing-stairs) |
 ## String
 |  |
@@ -78,4 +80,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
