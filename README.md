@@ -20,6 +20,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0099-recover-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
@@ -118,4 +119,16 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0143-reorder-list) |
+## Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0099-recover-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0099-recover-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
