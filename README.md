@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0037-sudoku-solver) |
+| [0040-combination-sum-ii](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0057-insert-interval) |
 | [0085-maximal-rectangle](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0085-maximal-rectangle) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0037-sudoku-solver) |
+| [0040-combination-sum-ii](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0051-n-queens) |
 ## Hash Table
 |  |
