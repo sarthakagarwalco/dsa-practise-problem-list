@@ -53,6 +53,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0075-sort-colors) |
+| [0143-reorder-list](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0143-reorder-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0085-maximal-rectangle) |
+| [0143-reorder-list](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0143-reorder-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0138-copy-list-with-random-pointer) |
+| [0143-reorder-list](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0143-reorder-list) |
 ## Sorting
 |  |
 | ------- |
@@ -111,4 +114,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0075-sort-colors) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
