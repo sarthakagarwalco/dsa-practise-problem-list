@@ -46,6 +46,7 @@
 | [0001-two-sum](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0037-sudoku-solver) |
+| [0138-copy-list-with-random-pointer](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0138-copy-list-with-random-pointer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,4 +93,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
