@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0051-n-queens) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0014-longest-common-prefix) |
 ## Memoization
 |  |
 | ------- |
@@ -84,4 +86,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0062-unique-paths) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
