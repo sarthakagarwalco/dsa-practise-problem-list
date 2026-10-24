@@ -12,6 +12,7 @@
 | [0040-combination-sum-ii](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0057-insert-interval) |
+| [0075-sort-colors](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0085-maximal-rectangle) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0198-house-robber) |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0075-sort-colors) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,4 +99,16 @@
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0138-copy-list-with-random-pointer) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
