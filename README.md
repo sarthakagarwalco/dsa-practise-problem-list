@@ -79,6 +79,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0070-climbing-stairs) |
 ## String
@@ -86,6 +87,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0043-multiply-strings) |
 ## Memoization
 |  |
 | ------- |
@@ -131,4 +133,8 @@
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0099-recover-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
