@@ -17,6 +17,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0200-number-of-islands) |
+| [0722-remove-comments](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0722-remove-comments) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [0014-longest-common-prefix](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0125-valid-palindrome) |
+| [0722-remove-comments](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0722-remove-comments) |
 ## Memoization
 |  |
 | ------- |
