@@ -19,6 +19,7 @@
 | [0200-number-of-islands](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0200-number-of-islands) |
 | [0722-remove-comments](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0722-remove-comments) |
 | [0820-short-encoding-of-words](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0820-short-encoding-of-words) |
+| [0833-find-and-replace-in-string](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0833-find-and-replace-in-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0037-sudoku-solver](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0138-copy-list-with-random-pointer) |
 | [0820-short-encoding-of-words](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0820-short-encoding-of-words) |
+| [0833-find-and-replace-in-string](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0833-find-and-replace-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 | [0125-valid-palindrome](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0125-valid-palindrome) |
 | [0722-remove-comments](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0722-remove-comments) |
 | [0820-short-encoding-of-words](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0820-short-encoding-of-words) |
+| [0833-find-and-replace-in-string](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0833-find-and-replace-in-string) |
 ## Memoization
 |  |
 | ------- |
@@ -117,6 +120,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0075-sort-colors) |
+| [0833-find-and-replace-in-string](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0833-find-and-replace-in-string) |
 ## Quicksort
 |  |
 | ------- |
