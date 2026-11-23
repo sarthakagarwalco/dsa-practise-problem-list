@@ -61,6 +61,7 @@
 | [0075-sort-colors](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0143-reorder-list) |
+| [0844-backspace-string-compare](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0143-reorder-list) |
+| [0844-backspace-string-compare](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 | [0820-short-encoding-of-words](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0820-short-encoding-of-words) |
 | [0831-masking-personal-information](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0831-masking-personal-information) |
 | [0833-find-and-replace-in-string](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0833-find-and-replace-in-string) |
+| [0844-backspace-string-compare](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0844-backspace-string-compare) |
 ## Memoization
 |  |
 | ------- |
@@ -150,4 +153,5 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0043-multiply-strings) |
+| [0844-backspace-string-compare](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
