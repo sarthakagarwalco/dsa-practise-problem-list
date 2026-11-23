@@ -97,6 +97,7 @@
 | [0125-valid-palindrome](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0125-valid-palindrome) |
 | [0722-remove-comments](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0722-remove-comments) |
 | [0820-short-encoding-of-words](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0820-short-encoding-of-words) |
+| [0831-masking-personal-information](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0831-masking-personal-information) |
 | [0833-find-and-replace-in-string](https://github.com/sarthakagarwalco/dsa-practise-problem-list/tree/master/0833-find-and-replace-in-string) |
 ## Memoization
 |  |
